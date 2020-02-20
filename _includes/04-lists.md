@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+This is a list of my favorite things:
+- Cars
+- Racing
+- Programming
+
+* This is a different item
